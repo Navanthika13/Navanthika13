@@ -148,3 +148,19 @@ A full-stack application for managing student information.
 **Thanks for visiting my profile!**
 
 </div>
+
+---
+
+## 🧠 LEETCODE STATISTICS
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Navanthika_C?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats"/>
+
+<br/>
+
+<a href="https://leetcode.com/u/Navanthika_C/">
+<img src="https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+</div>
