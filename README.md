@@ -171,10 +171,3 @@ A full-stack application for managing student information.
 
 ---
 
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Navanthika13&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
