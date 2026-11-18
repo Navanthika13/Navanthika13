@@ -170,4 +170,31 @@ A full-stack application for managing student information.
 </div>
 
 ---
+## 🚀 Featured Projects
+
+### 💻 Telecom Prepaid Plan API
+A REST API built using FastAPI to manage fictional telecom prepaid plans.
+
+**Technologies:** Python, FastAPI, Pydantic
+
+[View Project](https://github.com/Navanthika13/telecom-prepaid-plan-api)
+
+### 🎓 Student Management System
+A full-stack application for managing student information and academic records.
+
+**Technologies:** Python, Django, React
+
+[View Project](https://github.com/Navanthika13/student-management-system)
+
+### 📚 Study Buddy
+A learning-focused project designed to support students.
+
+**Technologies:** HTML
+
+[View Project](https://github.com/Navanthika13/study-buddy)
+
+### 🧩 LeetCode Solutions
+My coding practice solutions to improve problem-solving and programming skills.
+
+[View Repository](https://github.com/Navanthika13/Leetcode-solution)
 
